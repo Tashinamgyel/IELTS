@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "269502365480",
+    "firebase_url": "https://ielts2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ielts2",
+    "storage_bucket": "ielts2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269502365480:android:0411c95a7b08cb43379a1d",
+        "android_client_info": {
+          "package_name": "com.example.ielts2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269502365480-c7i41g1k9cp9k3qs6rpi02aj3qmqvqki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ielts2",
+            "certificate_hash": "5ef3c64d9e2dc44191500428df48d3f79edf372b"
+          }
+        },
+        {
+          "client_id": "269502365480-545ti1hchbnrhfnm2td01vg96p1jo253.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv9_ziMqxIiFEW138AiAtHO5fxHDvJouo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269502365480-545ti1hchbnrhfnm2td01vg96p1jo253.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
